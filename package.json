@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "name": "fundamentals",
+  "version": "1.0.0",
+  "description": "Various tasks for learning fundamental JS features."
+}
